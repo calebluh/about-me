@@ -44,13 +44,24 @@ Feel free to [e-mail me](mailto:calebluh@gmail.com) if you'd like to collaborate
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 **OS / Tools / Misc:**
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-E0611E?logo=vmware&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+![Hesk](https://img.shields.io/badge/Hesk-black?logo=hesk)
+![Spiceworks](https://img.shields.io/badge/Spiceworks-orange?logo=spiceworks)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-41904C?logo=openssl&logoColor=white)
+![Keytool](https://img.shields.io/badge/Keytool-B22222?logo=openjdk&logoColor=white)
+![FastSDCPU](https://img.shields.io/badge/FastSDCPU-000000?)
 
 ---
 
@@ -61,19 +72,21 @@ Feel free to [e-mail me](mailto:calebluh@gmail.com) if you'd like to collaborate
 -   Basics of Quantum Information (IBM, 2025)
 -   Quantum Business Foundations (IBM, 2025)
 -   JavaScript Fundamentals (Mozilla, 2025)
--   Microsoft IT Support Specialist (2025)
--   TestOut IT Fundamentals Pro (2024)
--   Excel Purple Belt (Level 3, 2022)
+-   Microsoft IT Support Specialist (Coursera, 2025)
+-   TestOut IT Fundamentals Pro (CompTIA, 2024)
+-   Level 3: Excel Purple Belt (TestOut, 2022)
 -   Autodesk Inventor Certified User (2020)
--   CompTIA A+ (Expected 2025)
+-   CompTIA A+ (Expected September 2025)
 
 ---
 
 ### 💼 Experience Highlights
 
-**Lorleberg’s True Value – Floor Associate** Oconomowoc, WI | *Sept 2019 – Present* Provided customer service, restocked inventory, and managed nightly closing duties.
+**City of Oconomowoc – IT Intern** Oconomowoc, WI | *June 2025 – Present* City wide IT support and junior level system administrator tasks.
 
-**World of Beer – Server Assistant** Orlando, FL | *April 2024 – Present* Maintaining fast-paced service, supporting operations, and managing inventory.
+**Lorleberg’s True Value – Floor Associate** Oconomowoc, WI | *Sept 2019 – July 2025* Provided customer service, restocked inventory, and managed nightly closing duties.
+
+**World of Beer – Server Assistant** Orlando, FL | *April 2024 – April 2025* Maintaining fast-paced service, supporting operations, and managing inventory.
 
 ---
 
