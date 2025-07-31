@@ -55,13 +55,13 @@ Feel free to [e-mail me](mailto:calebluh@gmail.com) if you'd like to collaborate
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-E0611E?logo=vmware&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Hesk](https://img.shields.io/badge/Hesk-black?logo=hesk)
 ![Spiceworks](https://img.shields.io/badge/Spiceworks-orange?logo=spiceworks)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-41904C?logo=openssl&logoColor=white)
 ![Keytool](https://img.shields.io/badge/Keytool-B22222?logo=openjdk&logoColor=white)
-![FastSDCPU](https://img.shields.io/badge/FastSDCPU-000000?)
+![fastsdcpu](https://img.shields.io/badge/fastsdcpu-000000?)
 
 ---
 
